@@ -10,25 +10,25 @@
   
 <div style="display: inline_block">
   
-  <img align="center" alt="anderson_js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="anderson_ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="anderson_jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="anderson_html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="anderson_css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="anderson_vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="anderson_linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="anderson_bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="anderson_php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="anderson_cakePHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg">
-  <img align="center" alt="anderson_apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
-  <img align="center" alt="anderson_coffeescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg">
-  <img align="center" alt="anderson_github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="anderson_java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="anderson_oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="anderson_knockoutjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/knockout/knockout-plain-wordmark.svg">
-  <img align="center" alt="anderson_mySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="anderson_ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg">
-  
+  <img align="center" alt="anderson_js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="anderson_ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="anderson_jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="anderson_html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="anderson_css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="anderson_vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="anderson_linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="anderson_bash" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="anderson_ruby" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg">
+  <img align="center" alt="anderson_rails" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg">
+  <img align="center" alt="anderson_php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="anderson_cakePHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg">
+  <img align="center" alt="anderson_apache" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
+  <img align="center" alt="anderson_coffeescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg">
+  <img align="center" alt="anderson_github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="anderson_java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="anderson_oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="anderson_knockoutjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/knockout/knockout-plain-wordmark.svg">
+  <img align="center" alt="anderson_mySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
   ##
